@@ -1,6 +1,7 @@
 ### 👋 Opa, tudo bom? Seja bem-vindo(a)! Sou o Leonardo
 
 Sou desenvolvedor com foco em **C#**, **.NET** e bancos **SQL**. Tenho interesse em criar soluções eficientes, aprender tecnologias novas e participar de projetos que exigem atenção a detalhes e boas práticas. Busco sempre evolução técnica e entrega consistente.
+I am a developer focused on **C#**, **.NET**, and **SQL** databases. I am interested in creating efficient solutions, learning new technologies, and participating in projects that demand attention to detail and best practices. I always seek technical improvement and consistent delivery.
 
 ---
 
