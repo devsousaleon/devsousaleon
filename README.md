@@ -6,7 +6,6 @@ I am a developer from Brasil focused on **C#**, **.NET**, and **SQL** databases.
 
 ### 📫 Contact 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-de-sousa-aa20912a5/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sousasleonardo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousaleon1508@gmail.com)
 
 ---
