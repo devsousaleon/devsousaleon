@@ -26,6 +26,7 @@ I am a developer from Brasil focused on **C#**, **.NET**, and **SQL** databases.
 <div style="display: inline-block">
 <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="SqlServer" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img align="center" alt="PostgreSql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 ### 📝 Organization
