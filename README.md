@@ -1,6 +1,6 @@
 ### 👋 Hey, how are you? Welcome(a)! I'm Leonardo
 
-I am a developer from Brazil focused on **C#**, **.NET**, and **SQL** databases. I am interested in creating efficient solutions, learning new technologies, and participating in projects that demand attention to detail and best practices. I always seek technical improvement and consistent delivery.
+I am a Brazilian developer focused on **C#** and **Unity**. I also have knowledge of **.NET** and **SQL** databases. I am interested in creating efficient solutions, learning new technologies, and participating in projects that require attention to detail and best practices. I always seek technical improvement and consistent deliverables, as well as using creativity for innovative creations.
 
 ---
 
