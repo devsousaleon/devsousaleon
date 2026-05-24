@@ -1,5 +1,8 @@
-### 👋 Hey, how are you? Welcome(a)! I'm Leonardo
+### 
+👋 Opa, tudo bom? Bem vindo(a)! Meu nome é Leonardo <br>
+Sou um desenvolvedor brasileiro com foco em **C#** e **Unity**, com sólida experiência em **.NET** e **SQL**. Busco construir sistemas escaláveis, eficientes, aplicando as melhores práticas e atenção aos detalhes. Continuamente aprimoro minhas habilidades técnicas, entregando resultados consistentes, combinando resolução estruturada de problemas com criatividade.
 
+👋 Hey, how are you? Welcome(a)! I'm Leonardo <br>
 I am a Brazilian developer focused on **C#** and **Unity**, with solid experience in **.NET** and **SQL**. I build efficient, scalable solutions, applying best practices and attention to detail. I continuously improve my technical skills and deliver consistent results, combining structured problem-solving with creativity.
 
 ---
