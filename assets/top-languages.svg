@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="316" viewBox="0 0 440 316" role="img" aria-labelledby="title desc">
   <title id="title">devsousaleon — repository languages</title>
-  <desc id="desc">C#: 50.94%; ShaderLab: 41.79%; HLSL: 7.27%</desc>
+  <desc id="desc">C#: 49.71%; ShaderLab: 40.78%; HLSL: 7.09%; JavaScript: 2.42%</desc>
   <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#1a1b2e"/></linearGradient></defs>
   <rect x=".5" y=".5" width="439" height="315" rx="18" fill="url(#bg)" stroke="#3b4261"/>
   <g font-family="Segoe UI, Arial, sans-serif">
@@ -9,16 +9,19 @@
     <text x="24" y="61" fill="#a9b1d6" font-size="12">Share of code bytes · forks excluded</text>
     <defs><clipPath id="bar"><rect x="24" y="81" width="392" height="12" rx="6"/></clipPath></defs>
     <rect x="24" y="81" width="392" height="12" rx="6" fill="#24283b"/>
-    <g clip-path="url(#bar)"><rect x="24.000" y="81" width="199.695" height="12" fill="#bb9af7"/><rect x="223.695" y="81" width="163.823" height="12" fill="#7aa2f7"/><rect x="387.518" y="81" width="28.482" height="12" fill="#9ece6a"/></g>
+    <g clip-path="url(#bar)"><rect x="24.000" y="81" width="194.860" height="12" fill="#bb9af7"/><rect x="218.860" y="81" width="159.857" height="12" fill="#7aa2f7"/><rect x="378.717" y="81" width="27.792" height="12" fill="#9ece6a"/><rect x="406.509" y="81" width="9.491" height="12" fill="#e0af68"/></g>
     <circle cx="30" cy="120" r="5" fill="#bb9af7"/>
       <text x="46" y="125" fill="#c0caf5" font-size="15">C#</text>
-      <text x="416" y="125" text-anchor="end" fill="#bb9af7" font-size="15" font-weight="600">50.94%</text>
-<circle cx="30" cy="165" r="5" fill="#7aa2f7"/>
-      <text x="46" y="170" fill="#c0caf5" font-size="15">ShaderLab</text>
-      <text x="416" y="170" text-anchor="end" fill="#7aa2f7" font-size="15" font-weight="600">41.79%</text>
-<circle cx="30" cy="210" r="5" fill="#9ece6a"/>
-      <text x="46" y="215" fill="#c0caf5" font-size="15">HLSL</text>
-      <text x="416" y="215" text-anchor="end" fill="#9ece6a" font-size="15" font-weight="600">7.27%</text>
+      <text x="416" y="125" text-anchor="end" fill="#bb9af7" font-size="15" font-weight="600">49.71%</text>
+<circle cx="30" cy="164" r="5" fill="#7aa2f7"/>
+      <text x="46" y="169" fill="#c0caf5" font-size="15">ShaderLab</text>
+      <text x="416" y="169" text-anchor="end" fill="#7aa2f7" font-size="15" font-weight="600">40.78%</text>
+<circle cx="30" cy="208" r="5" fill="#9ece6a"/>
+      <text x="46" y="213" fill="#c0caf5" font-size="15">HLSL</text>
+      <text x="416" y="213" text-anchor="end" fill="#9ece6a" font-size="15" font-weight="600">7.09%</text>
+<circle cx="30" cy="252" r="5" fill="#e0af68"/>
+      <text x="46" y="257" fill="#c0caf5" font-size="15">JavaScript</text>
+      <text x="416" y="257" text-anchor="end" fill="#e0af68" font-size="15" font-weight="600">2.42%</text>
     <path d="M24 272H416" stroke="#3b4261"/>
     <text x="24" y="297" fill="#a9b1d6" font-size="11">Updated 2026-10-10</text>
   </g>
