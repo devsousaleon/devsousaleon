@@ -1,126 +1,123 @@
 <div align="center">
 
+<img src="./assets/profile-banner.svg" alt="Leonardo de Sousa — C#, .NET and Unity developer" width="100%" />
+
 # 👋 Hey, I'm Leonardo de Sousa
 
-### C# • .NET • Unity • SQL Developer
+### C# & .NET Developer · Desktop Applications · Unity Game Development
 
-I'm Brazilian developer focus on **C#**, **.NET** e **Unity**.
+I'm a Brazilian developer who enjoys turning ideas into practical software and playable experiences.
 
-I have experience in desktop application development, databases, and creating scalable systems, applying best practices, clean architecture, and a focus on performance.
+My main tools are **C#**, **.NET**, **Unity**, and **SQL**. I work on desktop applications, database integration, and game mechanics, with attention to clear business rules, consistent interfaces, and maintainable code.
 
-Currently deepening my knowledge in **Game Development**, **Software Architecture**, and **Backend Development**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/leonardo-de-sousa-aa20912a5/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge)](mailto:sousaleon1508@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About me
+## 🧑‍💻 About me
+
+- 🖥️ I build desktop tools with **.NET, WinForms, and DevExpress**.
+- 🗃️ I work with relational databases and **Entity Framework Core**, connecting application behavior to persistent data.
+- 🎮 I recreate classic games in **Unity** and explore my own ideas for 2D gameplay.
+- 🧩 I enjoy refining existing projects: naming conventions, interface consistency, authentication, and the organization of business logic.
+- ⚙️ I'm interested in automating repetitive work, including workflows that connect forms, spreadsheets, and reports.
+- 🌱 I'm expanding my knowledge of **backend development, software architecture, and game development**.
 
 ```csharp
 public class LeonardoSousa
 {
-    public string Role = "Software Developer";
+    public string Role => "C# / .NET Developer";
+    public string Location => "Brazil";
 
-    public string[] MainStack =
+    public string[] MainStack => new[]
     {
-        "C#",
-        ".NET",
-        "Unity",
-        "SQL"
+        "C#", ".NET", "Unity", "SQL"
     };
 
-    public string[] Interests =
+    public string[] CurrentlyExploring => new[]
     {
-        "Game Development",
-        "Desktop Applications",
-        "Clean Architecture",
-        "Performance",
-        "Backend Systems"
+        "Backend development and software architecture",
+        "Original 2D games and reusable game systems",
+        "Workflow automation",
+        "Local AI tools and AI-assisted development"
     };
 }
 ```
 
----
+## 🛠️ Tech stack
 
-## 📊 GitHub Analytics
+**Languages & application development**
 
-<div align="center">
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devsousaleon&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devsousaleon&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🛠 Tech Stack
-
-### Programming Languages
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Frameworks & Tools
-
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge)
+![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
 
-### Databases
+**Databases**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Productivity
+**Tools & organization**
 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
----
+## 📌 Selected projects
 
-## 📌 Featured Projects
+| Project | What I've been building | Stack |
+| --- | --- | --- |
+| [🖥️ JustDoTheWork](https://github.com/devsousaleon/JustDoTheWork) | A desktop task management system covering creation, execution, pause, and completion, with time tracking, activity history, report templates, and user management. | C#, .NET 8, WinForms, DevExpress, EF Core, SQL Server / PostgreSQL |
+| [🎮 Classic game recreations](https://github.com/devsousaleon/unity-2d-projects) | Recreations of Space Invaders, Breakout, and Pong, exploring classic gameplay alongside additional modes and maps. | Unity, C# |
 
-| Project | Description | Stack |
-|----------|------------|--------|
-| 🎮 ClassicGames | I recreated classic games: Space Invaders, Breakout, and Pong. I recreated the classic gameplay and also added new modes and maps. | Unity, C# |
-| 🖥️ JustDoTheWork | A workflow-oriented task management system with complete control over the activity lifecycle, including creation, execution, pause, and completion, with time tracking. | .NET, WinForms, SQL Server |
+## 🔭 What I'm exploring
 
----
+**Software:** clearer architecture, backend services, and automation that reduces repetitive manual work.
 
-## 📈 Development Activity
+**Games:** original 2D concepts with approachable mechanics, reusable assets, and a scope I can develop step by step.
+
+**AI:** experimenting with local tools such as Ollama and learning how to guide AI agents while reviewing their output and making the technical decisions.
+
+## 📊 GitHub activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devsousaleon&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/devsousaleon">
+  <img src="./assets/github-stats.svg" alt="Public GitHub repositories, stars, followers, forks, commits and pull requests" width="58%" />
+  <img src="./assets/top-languages.svg" alt="Language distribution by code size in my original public repositories" width="40%" />
+</a>
+
+<sub>Public GitHub data · updated daily · language percentages reflect code size in repositories.</sub>
 
 </div>
-
----
 
 ## 🌎 Languages
 
 | Language | Level |
-|-----------|-------|
+| --- | --- |
 | 🇧🇷 Portuguese | Native |
 | 🇺🇸 English | Intermediate |
 
----
+## 📬 Let's connect
 
-## 📬 Contact
-
-<div align="center">
-  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-de-sousa-aa20912a5/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousaleon1508@gmail.com)
-
-</div>
-
----
+I'm happy to talk about **C#**, **desktop applications**, **Unity**, **automation**, and the process of learning through real projects.
 
 <div align="center">
 
-### ⚡ Focused on building scalable software and game systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_de_Sousa-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/leonardo-de-sousa-aa20912a5/)
+[![Email](https://img.shields.io/badge/Email-sousaleon1508%40gmail.com-EA4335?style=for-the-badge)](mailto:sousaleon1508@gmail.com)
+
+<br />
+
+**Building useful software. Exploring game systems. Learning with every project.**
 
 </div>
